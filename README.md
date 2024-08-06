@@ -1,4 +1,3 @@
-![picture](data/picture.jpg)
 # Premier League Match Analysis
 
 ## Overview
